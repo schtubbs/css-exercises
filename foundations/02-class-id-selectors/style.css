@@ -1,0 +1,19 @@
+.im-a-class {
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+    background-color: rgb(255, 194, 204);
+}
+
+#one {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.but-different {
+    font-size: 36px;
+}
+
+#another {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
